@@ -33,7 +33,7 @@
 ---
 
 - 🌱 I’m currently exploring deep learning specifically computer vision.
-- ⚡ Fun fact: Master dictionary both english and python, it really helps a lot :)
+- ⚡ Fun fact: Master dictionary both of english and python, it really helps a lot :)
 
 ---
 
