@@ -27,7 +27,7 @@
 
 ### Connect with me
 💬 Ask me anything anytime, I am happy to help if I can :)<br>
-:mailbox:How to reach me::email:greatsharma04@gmail.com 
+:mailbox:How to reach me:greatsharma04@gmail.com 
 <p>                <a href="https://www.instagram.com/gaurav.sharma.99/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height=25></a>           <a href="https://twitter.com/import_gs"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height=25></a></p>
 
 ---
@@ -35,3 +35,6 @@
 ### Github Stats
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-pi-amber.vercel.app/api?username=greatsharma&show_icons=true&hide_border=true" />
 
+
+- 🌱 I’m currently exploring deep learning specifically computer vision.
+- ⚡ Fun fact: Master dictionary both english and python, it really helps a lot :)
