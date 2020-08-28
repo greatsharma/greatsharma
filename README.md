@@ -52,9 +52,10 @@
 <a href="https://github.com/greatsharma/Thumb-Gestures-Detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=Thumb-Gestures-Detection" />
 </a>
-<br><a href="https://github.com/greatsharma/Facial_Emotion_Recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=Facial_Emotion_Recognition" />
+
+<br><a href="https://github.com/greatsharma/MPG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=MPG" />
 </a>
-<a href="https://github.com/greatsharma/Thumb-Gestures-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=Thumb-Gestures-Detection" />
+<a href="https://github.com/greatsharma/DeepLearning-Papers-Implementation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=DeepLearning-Papers-Implementation" />
 </a>
