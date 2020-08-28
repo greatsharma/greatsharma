@@ -52,10 +52,3 @@
 <a href="https://github.com/greatsharma/Thumb-Gestures-Detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=Thumb-Gestures-Detection" />
 </a>
-
-<a href="https://github.com/greatsharma/SVD-Image-Compression">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=SVD-Image-Compression" />
-</a>
-<a href="https://github.com/greatsharma/Particle-Swarm-Optimization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=Particle-Swarm-Optimization" />
-</a>
