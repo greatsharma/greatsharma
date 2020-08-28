@@ -59,3 +59,10 @@
 <a href="https://github.com/greatsharma/DeepLearning-Papers-Implementation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=DeepLearning-Papers-Implementation" />
 </a>
+
+<br><a href="https://github.com/greatsharma/Basics-of-Quantum-in-Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=Basics-of-Quantum-in-Python" />
+</a>
+<a href="https://github.com/greatsharma/Particle-Swarm-Optimization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=Particle-Swarm-Optimization" />
+</a>
