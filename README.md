@@ -38,4 +38,6 @@
 ---
 
 ### Github Stats
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-pi-amber.vercel.app/api?username=greatsharma&show_icons=true&hide_border=true" />
+[![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=greatsharma&count_private=true&show_icons=true&include_all_commits=1)](https://github.com/greatsharma/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greatsharma&hide=Rich%Text%Format,Shell)](https://github.com/greatsharma/github-readme-stats)
