@@ -52,7 +52,6 @@
 <a href="https://github.com/greatsharma/Thumb-Gestures-Detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=Thumb-Gestures-Detection" />
 </a>
-
 <br><a href="https://github.com/greatsharma/Facial_Emotion_Recognition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatsharma&repo=Facial_Emotion_Recognition" />
 </a>
