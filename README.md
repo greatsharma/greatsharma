@@ -34,7 +34,7 @@
 
 ---
 
-- 🌱 I’m currently exploring deep learning specifically computer vision.
+- 🌱 I’m currently exploring the field of data science and machine learning.
 - ⚡ Fun fact: Master dictionary both of english and python, it really helps a lot :)
 
 ---
