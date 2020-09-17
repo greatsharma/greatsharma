@@ -23,6 +23,7 @@
 ### My Recent Blogs<br>
 - [EDA for beginners using python](https://medium.com/@greatsharma04/eda-for-beginners-using-python-4fcd2b57d1f7)<br>
 - [Statistical Analysis using Python](https://medium.com/@greatsharma04/statistical-analysis-using-python-e83f10ca3c82)<br>
+- [Effect of Multi-collinearity on Linear Regression](https://medium.com/analytics-vidhya/effect-of-multicollinearity-on-linear-regression-1cf7cfc5e8eb)<br>
 
 ---
 
