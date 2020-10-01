@@ -21,10 +21,10 @@
 ---
 
 ### Some of my Blogs<br>
-- [Facial Emotion Recognition using Keras](https://medium.com/@greatsharma04/facial-emotion-recognition-fer-using-keras-763df7946a64)
+- [Image compression using linear algebra](https://medium.com/analytics-vidhya/compressing-images-using-linear-algebra-bdac64c5e7ef)<br>
+- [Facial Emotion Recognition using Keras](https://medium.com/@greatsharma04/facial-emotion-recognition-fer-using-keras-763df7946a64)<br>
 - [Statistical Analysis using Python](https://medium.com/@greatsharma04/statistical-analysis-using-python-e83f10ca3c82)<br>
 - [Effect of Multi-collinearity on Linear Regression](https://medium.com/analytics-vidhya/effect-of-multicollinearity-on-linear-regression-1cf7cfc5e8eb)<br>
-- [Image compression using linear algebra](https://medium.com/analytics-vidhya/compressing-images-using-linear-algebra-bdac64c5e7ef)<br>
 
 And [many more ...](https://medium.com/@greatsharma04/)
 
