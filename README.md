@@ -37,7 +37,7 @@ And [many more ...](https://medium.com/@greatsharma04/)
 
 ---
 
-- 🌱 I’m currently exploring the field of data science and machine learning.
+- 🌱 I’m currently exploring the field of computer vision.
 - ⚡ Fun fact: Master dictionary both of english and python, it really helps a lot :)
 
 ---
