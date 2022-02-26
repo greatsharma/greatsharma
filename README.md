@@ -2,7 +2,7 @@
 
 <p><a href="https://www.linkedin.com/in/gaurav-sharma-002b6416b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@greatsharma04/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://www.kaggle.com/gauravsharma99"><img src="https://avatars0.githubusercontent.com/u/1336944?s=200&v=4" height=25></a></p>
 
-:boy:This is Gaurav Sharma, a computer science student. I love to make machines learn from data. I have theoretical, mathematical, and practical knowledge of ML and DL algorithms. I have a nice blend of both exploration and exploitation for any given problem. Apart from this I am active on GitHub and have contributed to some well-known ML libraries. I am also **kaggle kernel expert**.
+:boy:This is Gaurav Sharma, a skilled AI engineer with experience in building real-time computer-vision applications for scalable and reliable business. Experienced with SOTA architectures, libraries and tools used in the AI industry. A competitive performer who believes in both exploration and exploitation and is capable of delivering the best under challenging conditions. Apart from this I am active on GitHub and have contributed to some well-known ML libraries. I am also a **kaggle kernel expert**.
 
 📝[Resume](https://drive.google.com/file/d/1yNW7sn-FGzsoJ7nGYbjpXRZkSpwXIfZ_/view?usp=sharing)<br>
 
