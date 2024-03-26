@@ -4,7 +4,7 @@
 
 :boy:This is Gaurav Sharma, a skilled AI engineer with experience in building real-time computer-vision applications for scalable and reliable business. Experienced with SOTA architectures, libraries and tools used in the AI industry. A competitive performer who believes in both exploration and exploitation and is capable of delivering the best under challenging conditions. Apart from this I am active on GitHub and have contributed to some well-known ML libraries. I am also a **kaggle kernel expert**.
 
-📝[Resume](https://drive.google.com/file/d/1yNW7sn-FGzsoJ7nGYbjpXRZkSpwXIfZ_/view?usp=sharing)<br>
+📝[Resume]([https://drive.google.com/file/d/1yNW7sn-FGzsoJ7nGYbjpXRZkSpwXIfZ_/view?usp=sharing](https://drive.google.com/file/d/1HmP5WZ11IwMJvXYh-Na_H2clZV7P0Icp/view?usp=sharing))<br>
 
 ### Languages, Frameworks and Tools
 
